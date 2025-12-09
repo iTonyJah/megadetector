@@ -1,4 +1,10 @@
-# Hello, world!
-## My name is Anton Lysogor and this is my project HelloWorld.
-### Math formula for area of regular pentagon:
-$S = \frac{\sqrt{5}\sqrt{5 + \sqrt{5}} } {4} t^2$
+Проектная практика 1 семестра студента НИЯУ МИФИ Лысогора Антона
+
+
+Полезные ссылки:
+источник фотографий:
+https://lila.science/datasets/snapshot-safari-2024-expansion/
+
+Ссылка на репозиторий модели:
+https://github.com/agentmorris/MegaDetector
+
