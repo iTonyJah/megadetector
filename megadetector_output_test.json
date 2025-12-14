@@ -1,11 +1,11 @@
 {
  "images": [
   {
-   "file": "APN_S2_13U_R3_IMAG0010.jpeg",
+   "file": "Safari 2024/APN_S2_13U_R3_IMAG0010.jpeg",
    "detections": []
   },
   {
-   "file": "APN_S2_KUMH_R3_IMAG0178.jpeg",
+   "file": "Safari 2024/APN_S2_KUMH_R3_IMAG0178.jpeg",
    "detections": [
     {
      "category": "1",
@@ -70,7 +70,7 @@
    ]
   },
   {
-   "file": "APN_S2_U63c_R4_IMAG0035.jpeg",
+   "file": "Safari 2024/APN_S2_U63c_R4_IMAG0035.jpeg",
    "detections": [
     {
      "category": "1",
@@ -115,7 +115,7 @@
    ]
   },
   {
-   "file": "APN_S3_JJ7_R11_IMAG0342.jpeg",
+   "file": "Safari 2024/APN_S3_JJ7_R11_IMAG0342.jpeg",
    "detections": [
     {
      "category": "1",
@@ -140,7 +140,7 @@
    ]
   },
   {
-   "file": "APN_S3_TB17_R2_IMAG0562.jpeg",
+   "file": "Safari 2024/APN_S3_TB17_R2_IMAG0562.jpeg",
    "detections": [
     {
      "category": "1",
@@ -155,7 +155,7 @@
    ]
   },
   {
-   "file": "BLO_S2_C03_R2_IMAG0707.jpeg",
+   "file": "Safari 2024/BLO_S2_C03_R2_IMAG0707.jpeg",
    "detections": [
     {
      "category": "1",
@@ -170,7 +170,7 @@
    ]
   },
   {
-   "file": "BLO_S2_C03_R2_IMAG0709.jpeg",
+   "file": "Safari 2024/BLO_S2_C03_R2_IMAG0709.jpeg",
    "detections": [
     {
      "category": "1",
@@ -185,42 +185,7 @@
    ]
   },
   {
-   "file": "Brontomerus_Utahraptor.jpeg",
-   "detections": [
-    {
-     "category": "1",
-     "conf": 0.974,
-     "bbox": [
-      0.1385,
-      0.1687,
-      0.8544,
-      0.6376
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.957,
-     "bbox": [
-      0.735,
-      0.5671,
-      0.1344,
-      0.2152
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.953,
-     "bbox": [
-      0.081,
-      0.4616,
-      0.3249,
-      0.2344
-     ]
-    }
-   ]
-  },
-  {
-   "file": "CDB_S1_A05_R1_IMAG0212.jpeg",
+   "file": "Safari 2024/CDB_S1_A05_R1_IMAG0212.jpeg",
    "detections": [
     {
      "category": "1",
@@ -235,7 +200,7 @@
    ]
   },
   {
-   "file": "CDB_S1_A05_R1_IMAG0217.jpeg",
+   "file": "Safari 2024/CDB_S1_A05_R1_IMAG0217.jpeg",
    "detections": [
     {
      "category": "1",
@@ -330,7 +295,7 @@
    ]
   },
   {
-   "file": "EFA_S1_EFA07_R29_IMAG0236.jpeg",
+   "file": "Safari 2024/EFA_S1_EFA07_R29_IMAG0236.jpeg",
    "detections": [
     {
      "category": "1",
@@ -375,7 +340,371 @@
    ]
   },
   {
-   "file": "Europasaurus_holgeri_Scene_2.jpg",
+   "file": "Safari 2024/KAR_S2_C01_R2_IMAG0210.jpeg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.979,
+     "bbox": [
+      0.1369,
+      0.0004,
+      0.8618,
+      0.9664
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.106,
+     "bbox": [
+      0.2006,
+      0.394,
+      0.0621,
+      0.0885
+     ]
+    }
+   ]
+  },
+  {
+   "file": "Safari 2024/KAR_S2_F02_R2_IMAG1104.jpeg",
+   "detections": []
+  },
+  {
+   "file": "Safari 2024/KAR_S3_KARWA03_R8_IMAG1425.jpeg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.972,
+     "bbox": [
+      0.0,
+      0.1885,
+      0.1886,
+      0.5381
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.959,
+     "bbox": [
+      0.3528,
+      0.1905,
+      0.1611,
+      0.4899
+     ]
+    }
+   ]
+  },
+  {
+   "file": "Safari 2024/KAR_S3_KARWA03_R8_IMAG1427.jpeg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.98,
+     "bbox": [
+      0.0407,
+      0.1056,
+      0.3843,
+      0.6397
+     ]
+    }
+   ]
+  },
+  {
+   "file": "Safari 2024/MAD_S1_MAD03_R4_IMAG4724.jpeg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.953,
+     "bbox": [
+      0.3672,
+      0.4966,
+      0.1758,
+      0.1724
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.184,
+     "bbox": [
+      0.2018,
+      0.532,
+      0.0306,
+      0.0875
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.041,
+     "bbox": [
+      0.0,
+      0.536,
+      0.0147,
+      0.0467
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.022,
+     "bbox": [
+      0.1455,
+      0.5327,
+      0.0147,
+      0.0381
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.011,
+     "bbox": [
+      0.0,
+      0.4705,
+      0.0143,
+      0.1129
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.2441,
+      0.5073,
+      0.0128,
+      0.024
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.1548,
+      0.534,
+      0.0131,
+      0.03
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.1607,
+      0.5401,
+      0.0069,
+      0.0193
+     ]
+    }
+   ]
+  },
+  {
+   "file": "Safari 2024/MAD_S1_MAD03_R4_IMAG4725.jpeg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.951,
+     "bbox": [
+      0.5,
+      0.5394,
+      0.1475,
+      0.1597
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.04,
+     "bbox": [
+      0.0,
+      0.5381,
+      0.0147,
+      0.0434
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.031,
+     "bbox": [
+      0.1447,
+      0.5327,
+      0.0151,
+      0.0401
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.028,
+     "bbox": [
+      0.2018,
+      0.5314,
+      0.0306,
+      0.0862
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.01,
+     "bbox": [
+      0.0,
+      0.4705,
+      0.0143,
+      0.1122
+     ]
+    }
+   ]
+  },
+  {
+   "file": "Safari 2024/MAD_S1_MAD03_R4_IMAG4726.jpeg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.943,
+     "bbox": [
+      0.5982,
+      0.5802,
+      0.0834,
+      0.137
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.109,
+     "bbox": [
+      0.2022,
+      0.5307,
+      0.0302,
+      0.0868
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.058,
+     "bbox": [
+      0.0,
+      0.5374,
+      0.0143,
+      0.0447
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.0,
+      0.4712,
+      0.0139,
+      0.1116
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.011,
+     "bbox": [
+      0.1447,
+      0.5327,
+      0.0155,
+      0.0401
+     ]
+    }
+   ]
+  },
+  {
+   "file": "sample_test/Brontomerus_Utahraptor.jpeg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.974,
+     "bbox": [
+      0.1385,
+      0.1687,
+      0.8544,
+      0.6376
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.957,
+     "bbox": [
+      0.735,
+      0.5671,
+      0.1344,
+      0.2152
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.953,
+     "bbox": [
+      0.081,
+      0.4616,
+      0.3249,
+      0.2344
+     ]
+    }
+   ]
+  },
+  {
+   "file": "sample_test/Domenichounicorndetail.jpg",
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.811,
+     "bbox": [
+      0.0933,
+      0.0318,
+      0.5041,
+      0.5021
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.273,
+     "bbox": [
+      0.002,
+      0.0888,
+      0.9723,
+      0.8398
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.102,
+     "bbox": [
+      0.0082,
+      0.0406,
+      0.9502,
+      0.8924
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.036,
+     "bbox": [
+      0.0096,
+      0.0306,
+      0.3928,
+      0.9136
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.028,
+     "bbox": [
+      0.085,
+      0.03,
+      0.5165,
+      0.6754
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.014,
+     "bbox": [
+      0.0,
+      0.419,
+      0.715,
+      0.5259
+     ]
+    }
+   ]
+  },
+  {
+   "file": "sample_test/Europasaurus_holgeri_Scene_2.jpg",
    "detections": [
     {
      "category": "1",
@@ -520,7 +849,7 @@
    ]
   },
   {
-   "file": "Italian_Army_-_132nd_Tank_Regiment_Ariete_main_battle_tank_during_an_exercise_in_Italy_01.jpg",
+   "file": "sample_test/Italian_Army_-_132nd_Tank_Regiment_Ariete_main_battle_tank_during_an_exercise_in_Italy_01.jpg",
    "detections": [
     {
      "category": "3",
@@ -645,76 +974,7 @@
    ]
   },
   {
-   "file": "KAR_S2_C01_R2_IMAG0210.jpeg",
-   "detections": [
-    {
-     "category": "1",
-     "conf": 0.979,
-     "bbox": [
-      0.1369,
-      0.0004,
-      0.8618,
-      0.9664
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.106,
-     "bbox": [
-      0.2006,
-      0.394,
-      0.0621,
-      0.0885
-     ]
-    }
-   ]
-  },
-  {
-   "file": "KAR_S2_F02_R2_IMAG1104.jpeg",
-   "detections": []
-  },
-  {
-   "file": "KAR_S3_KARWA03_R8_IMAG1425.jpeg",
-   "detections": [
-    {
-     "category": "1",
-     "conf": 0.972,
-     "bbox": [
-      0.0,
-      0.1885,
-      0.1886,
-      0.5381
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.959,
-     "bbox": [
-      0.3528,
-      0.1905,
-      0.1611,
-      0.4899
-     ]
-    }
-   ]
-  },
-  {
-   "file": "KAR_S3_KARWA03_R8_IMAG1427.jpeg",
-   "detections": [
-    {
-     "category": "1",
-     "conf": 0.98,
-     "bbox": [
-      0.0407,
-      0.1056,
-      0.3843,
-      0.6397
-     ]
-    }
-   ]
-  },
-  {
-   "file": "Lenna_(test_image).png",
+   "file": "sample_test/Lenna_(test_image).png",
    "detections": [
     {
      "category": "2",
@@ -799,202 +1059,127 @@
    ]
   },
   {
-   "file": "MAD_S1_MAD03_R4_IMAG4724.jpeg",
+   "file": "sample_test/Ngorongoro_Crater,_Tanzania_(2288421918).jpg",
    "detections": [
     {
      "category": "1",
-     "conf": 0.953,
+     "conf": 0.96,
      "bbox": [
-      0.3672,
-      0.4966,
-      0.1758,
-      0.1724
+      0.4531,
+      0.366,
+      0.4517,
+      0.4339
      ]
     },
     {
      "category": "1",
-     "conf": 0.184,
+     "conf": 0.913,
      "bbox": [
-      0.2018,
-      0.532,
-      0.0306,
-      0.0875
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.041,
-     "bbox": [
-      0.0,
-      0.536,
-      0.0147,
-      0.0467
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.022,
-     "bbox": [
-      0.1455,
-      0.5327,
-      0.0147,
-      0.0381
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.011,
-     "bbox": [
-      0.0,
-      0.4705,
-      0.0143,
-      0.1129
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.009,
-     "bbox": [
-      0.2441,
-      0.5073,
-      0.0128,
-      0.024
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.008,
-     "bbox": [
-      0.1548,
-      0.534,
-      0.0131,
-      0.03
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.007,
-     "bbox": [
-      0.1607,
-      0.5401,
-      0.0069,
-      0.0193
-     ]
-    }
-   ]
-  },
-  {
-   "file": "MAD_S1_MAD03_R4_IMAG4725.jpeg",
-   "detections": [
-    {
-     "category": "1",
-     "conf": 0.951,
-     "bbox": [
-      0.5,
-      0.5394,
-      0.1475,
-      0.1597
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.04,
-     "bbox": [
-      0.0,
-      0.5381,
-      0.0147,
-      0.0434
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.031,
-     "bbox": [
-      0.1447,
-      0.5327,
-      0.0151,
-      0.0401
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.028,
-     "bbox": [
-      0.2018,
-      0.5314,
-      0.0306,
-      0.0862
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.01,
-     "bbox": [
-      0.0,
-      0.4705,
-      0.0143,
-      0.1122
-     ]
-    }
-   ]
-  },
-  {
-   "file": "MAD_S1_MAD03_R4_IMAG4726.jpeg",
-   "detections": [
-    {
-     "category": "1",
-     "conf": 0.943,
-     "bbox": [
-      0.5982,
-      0.5802,
-      0.0834,
-      0.137
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.109,
-     "bbox": [
-      0.2022,
-      0.5307,
-      0.0302,
-      0.0868
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.058,
-     "bbox": [
-      0.0,
-      0.5374,
-      0.0143,
-      0.0447
+      0.2752,
+      0.5865,
+      0.0894,
+      0.1124
      ]
     },
     {
      "category": "1",
      "conf": 0.012,
      "bbox": [
-      0.0,
-      0.4712,
-      0.0139,
-      0.1116
-     ]
-    },
-    {
-     "category": "1",
-     "conf": 0.011,
-     "bbox": [
-      0.1447,
-      0.5327,
-      0.0155,
-      0.0401
+      0.1695,
+      0.6134,
+      0.0132,
+      0.023
      ]
     }
    ]
   },
   {
-   "file": "S2400006.JPG",
+   "file": "sample_test/Pioneers_in_South_Africa_(1914)_(14576727409).jpg",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.905,
+     "bbox": [
+      0.4464,
+      0.7024,
+      0.5138,
+      0.2566
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.81,
+     "bbox": [
+      0.396,
+      0.5421,
+      0.3117,
+      0.2133
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.549,
+     "bbox": [
+      0.2103,
+      0.2315,
+      0.2871,
+      0.4959
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.24,
+     "bbox": [
+      0.0598,
+      0.289,
+      0.1202,
+      0.1518
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.174,
+     "bbox": [
+      0.818,
+      0.2947,
+      0.0944,
+      0.085
+     ]
+    },
+    {
+     "category": "3",
+     "conf": 0.07,
+     "bbox": [
+      0.9401,
+      0.2485,
+      0.0585,
+      0.0404
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.031,
+     "bbox": [
+      0.6926,
+      0.306,
+      0.1511,
+      0.1838
+     ]
+    },
+    {
+     "category": "3",
+     "conf": 0.006,
+     "bbox": [
+      0.9401,
+      0.2744,
+      0.051,
+      0.0145
+     ]
+    }
+   ]
+  },
+  {
+   "file": "sample_test/S2400006.JPG",
    "detections": [
     {
      "category": "3",
@@ -1189,7 +1374,7 @@
    ]
   },
   {
-   "file": "Traffic_lights_rus.jpg",
+   "file": "sample_test/Traffic_lights_rus.jpg",
    "detections": [
     {
      "category": "2",
@@ -1234,7 +1419,7 @@
    ]
   },
   {
-   "file": "Whistlejacket_by_George_Stubbs_edit.jpg",
+   "file": "sample_test/Whistlejacket_by_George_Stubbs_edit.jpg",
    "detections": [
     {
      "category": "1",
@@ -1249,7 +1434,7 @@
    ]
   },
   {
-   "file": "\u042d\u043a\u0441\u043a\u0430\u0432\u0430\u0442\u043e\u0440_\u0444\u0438\u0440\u043c\u044b_Hitachi.jpg",
+   "file": "sample_test/\u042d\u043a\u0441\u043a\u0430\u0432\u0430\u0442\u043e\u0440_\u0444\u0438\u0440\u043c\u044b_Hitachi.jpg",
    "detections": [
     {
      "category": "3",
@@ -1274,7 +1459,7 @@
    ]
   },
   {
-   "file": "\u043e\u0441\u0451\u043b \u0438 \u043a\u043e\u0442.jpg",
+   "file": "sample_test/\u043e\u0441\u0451\u043b \u0438 \u043a\u043e\u0442.jpg",
    "detections": [
     {
      "category": "1",
@@ -1345,7 +1530,7 @@
   "3": "vehicle"
  },
  "info": {
-  "detection_completion_time": "2025-12-13 15:22:50",
+  "detection_completion_time": "2025-12-15 00:26:35",
   "format_version": "1.5",
   "detector": "unknown",
   "detector_metadata": {
