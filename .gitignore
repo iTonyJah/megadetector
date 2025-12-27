@@ -3,3 +3,8 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# ignore output files
+megadetector_output_test.json
+output_files/megadetector_output_test.json
+*/visualized_images/*
