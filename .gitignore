@@ -10,3 +10,6 @@ output_files/megadetector_output_test.json
 *visualized_images/*
 */visualized_images/*
 */.visualized_images/*
+
+# ignore anaconda files
+anaconda_projects
