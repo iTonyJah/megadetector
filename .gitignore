@@ -7,4 +7,6 @@
 # ignore output files
 megadetector_output_test.json
 output_files/megadetector_output_test.json
+*visualized_images/*
 */visualized_images/*
+*/.visualized_images/*
