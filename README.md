@@ -46,7 +46,7 @@
     * * всё, кроме двух снимков, изображения из Википедии: динозавров, дамы в шляпе, танка, экскаватора, светофора, коня, единорога;
       * один снимок из личной коллекции (селфтест);
       * один снимок случайный из интернета ("осёл и кот.jpg"), для проверки распознавания вымышленных существ из мультфильма.
-* Python-скрипт, файл формата Jupyter Notebook [```megadetector.ipynb```](https://github.com/iTonyJah/megadetector/blob/main/megadetector.ipynb), для запуска модели в режиме рекурсивной обработки всех изображений во всех каталогах входной папки ```\megadetector_test_images```.
+* Python-скрипт, файл формата Jupyter Notebook [megadetector.ipynb](https://github.com/iTonyJah/megadetector/blob/main/megadetector.ipynb), для запуска модели в режиме рекурсивной обработки всех изображений во всех каталогах входной папки ```\megadetector_test_images```.
 
 # Инструкция для запуска 
 
